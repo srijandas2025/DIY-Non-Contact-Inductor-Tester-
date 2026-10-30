@@ -3,7 +3,7 @@
 A tiny, battery-powered circuit that senses the **changing magnetic field** around a coil, inductor or transformer from a distance and shows the result on an LED. No probes, no touching the part, no microcontroller. Just two transistors and a few cheap parts.
 
 ![Finished tester](tester-photo.jpg)
-
+![Finished tester on breadboard](IMG20261019174604.jpg)
 **LinkedIn post: the working video**
 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/gc8iCuZy)
 ---
