@@ -4,7 +4,7 @@ A tiny, battery-powered circuit that senses the **changing magnetic field** arou
 
 ![Finished tester](images/tester-photo.jpg)
 
-**LinkedIn post:** [PASTE-YOUR-LINKEDIN-POST-LINK-HERE](PASTE-YOUR-LINKEDIN-POST-LINK-HERE)
+**LinkedIn post:** [](https://lnkd.in/p/gc8iCuZy)
 
 ---
 
@@ -48,7 +48,7 @@ It is a learning project and a quick-check tool. It is also a good way to unders
 
 ## Circuit diagram
 
-![Circuit diagram](images/circuit-diagram.jpg)
+![Circuit diagram](Circuit_Diagram_Inductor_Cheaker.jpeg)
 
 > The 1 nH inductor in the drawing is only a **placeholder** for the sensing coil. In the real build it is a small hand-wound coil on a ferrite core at the tip of the board.
 
