@@ -4,7 +4,7 @@ A tiny, battery-powered circuit that senses the **changing magnetic field** arou
 
 ![Finished tester](tester-photo.jpg)
 
-**LinkedIn post:**
+**LinkedIn post: the working video**
 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/gc8iCuZy)
 ---
 
@@ -305,6 +305,29 @@ Tip: start with DC coupling to see the idle levels, then use 20 to 50 mV/div or 
 - Add a built-in oscillator so passive coils can be tested without an external signal.
 - Design a PCB.
 
+
+## 📸 Signal Measurement & Behind The Scenes
+
+### Input Signal Analysis (DSO-510)
+<p align="center">
+  <img src="IMG20261019133720.jpg" alt="DSO-510 Waveform Measurement" width="550"/>
+  <br>
+  <em>Signal capture and oscillation frequency verification using DSO-510 handheld oscilloscope.</em>
+</p>
+
+### Bench Assembly & Testing
+<p align="center">
+  <img src="IMG20261020232439.jpg" alt="Completed Wand Tester" width="450"/>
+  <br>
+  <em>Handheld tester build on single-side perfboard with integrated 1S battery and slim probe neck.</em>
+</p>
+
+<p align="center">
+  <img src="IMG20261019215619.jpg" alt="Prototyping & Soldering Setup" width="500"/>
+  <br>
+  <em>Bench assembly, trace routing, and testing against live SMPS transformers.</em>
+</p>
+
 ## Repository structure
 
 ```
@@ -318,7 +341,8 @@ Tip: start with DC coupling to see the idle levels, then use 20 to 50 mV/div or 
 
 ## Author and license
 
-Made by **Srijan**. [LinkedIn post](PASTE-YOUR-LINKEDIN-POST-LINK-HERE)
+Made by **Srijan**
+.[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/gc8iCuZy)
 
 Released under the **MIT License** (see `LICENSE`). Feel free to build, modify and share, and credit is appreciated.
 
