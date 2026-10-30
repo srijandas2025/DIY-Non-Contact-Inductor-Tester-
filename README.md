@@ -4,8 +4,8 @@ A tiny, battery-powered circuit that senses the **changing magnetic field** arou
 
 ![Finished tester](images/tester-photo.jpg)
 
-**LinkedIn post:** [](https://lnkd.in/p/gc8iCuZy)
-
+**LinkedIn post:**
+[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/gc8iCuZy)
 ---
 
 ## Table of contents
