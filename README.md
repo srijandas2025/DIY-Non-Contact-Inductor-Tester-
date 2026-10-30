@@ -325,7 +325,7 @@ Tip: start with DC coupling to see the idle levels, then use 20 to 50 mV/div or 
 <p align="center">
   <img src="IMG20261019215619.jpg" alt="Prototyping & Soldering Setup" width="500"/>
   <br>
-  <em>Bench assembly, trace routing, and testing against live SMPS transformers.</em>
+  <em>Oscilloscope measurements.</em>
 </p>
 
 ## Repository structure
