@@ -308,11 +308,11 @@ Tip: start with DC coupling to see the idle levels, then use 20 to 50 mV/div or 
 
 ## 📸 Signal Measurement & Behind The Scenes
 
-### Input Signal Analysis (DSO-510)
+### Sensing Coil inductance Testing Using LCR Meter
 <p align="center">
   <img src="IMG20261019133720.jpg" alt="DSO-510 Waveform Measurement" width="550"/>
   <br>
-  <em>Signal capture and oscillation frequency verification using DSO-510 handheld oscilloscope.</em>
+  <em>Inductance Testing</em>
 </p>
 
 ### Bench Assembly & Testing
