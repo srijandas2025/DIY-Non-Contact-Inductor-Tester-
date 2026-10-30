@@ -327,7 +327,16 @@ Tip: start with DC coupling to see the idle levels, then use 20 to 50 mV/div or 
   <br>
   <em>Oscilloscope measurements.</em>
 </p>
-
+<p align="center">
+  <img src="sensing_coil_input_waveform.jpg" alt="Sensing coil input signal measurement (zoom in) " width="500"/>
+  <br>
+  <em>Oscilloscope measurements.</em>
+</p>
+<p align="center">
+  <img src="zoomout_dso_input_signal.jpg" alt="Zoom out input signal " width="500"/>
+  <br>
+  <em>Oscilloscope measurements.</em>
+</p>
 ## Repository structure
 
 ```
@@ -341,7 +350,7 @@ Tip: start with DC coupling to see the idle levels, then use 20 to 50 mV/div or 
 
 ## Author and license
 
-Made by **Srijan**
+Made by **Srijan Das**
 .[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Project_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/gc8iCuZy)
 
 Released under the **MIT License** (see `LICENSE`). Feel free to build, modify and share, and credit is appreciated.
